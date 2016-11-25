@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.25)  24 NOV 2016 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.25)  25 NOV 2016 04:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1523,50 +1523,50 @@ echnical note
 ) (./demo.aux)
 \openout1 = `demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 60.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 60.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 57.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 57.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 60.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 60.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 57.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 60.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 60.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 57.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 60.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 60.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Try loading font information for T1+txss on input line 60.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Try loading font information for T1+txss on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txss.fd
 File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 60.
+(Font)              scaled to size 9.49997pt on input line 57.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1632,7 +1632,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring OFF on input line 60.
+Package hyperref Info: Link coloring OFF on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1642,56 +1642,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count198
 )
-LaTeX Info: Redefining \ref on input line 60.
-LaTeX Info: Redefining \pageref on input line 60.
-LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
 
 (./demo.out) (./demo.out)
 \@outlinefile=\write5
 \openout5 = `demo.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/txr/m/n --> OT1/cmss/m/n on input line 60.
+(Font)                  OT1/txr/m/n --> OT1/cmss/m/n on input line 57.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/txr/bx/n --> OT1/cmss/bx/n on input line 60.
+(Font)                  OT1/txr/bx/n --> OT1/cmss/bx/n on input line 57.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/txr/m/n on input line 60.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 60.
+(Font)                  OT1/cmss/m/n --> T1/txr/m/n on input line 57.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/txr/bx/n --> T1/txss/bx/n on input line 60.
+(Font)                  OT1/txr/bx/n --> T1/txss/bx/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/txr/bx/n --> T1/txss/bx/n on input line 60.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 60.
+(Font)                  OT1/txr/bx/n --> T1/txss/bx/n on input line 57.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/txss/m/n --> T1/txss/m/n on input line 60.
+(Font)                  OT1/txss/m/n --> T1/txss/m/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/txss/b/n --> T1/txss/m/n on input line 60.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 60.
+(Font)                  OT1/txss/b/n --> T1/txss/m/n on input line 57.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/txr/m/it --> T1/txss/m/it on input line 60.
+(Font)                  OT1/txr/m/it --> T1/txss/m/it on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/txr/bx/it --> T1/txss/m/it on input line 60.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 60.
+(Font)                  OT1/txr/bx/it --> T1/txss/m/it on input line 57.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/txtt/m/n --> T1/txtt/m/n on input line 60.
+(Font)                  OT1/txtt/m/n --> T1/txtt/m/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/txtt/b/n --> T1/txtt/m/n on input line 60.
+(Font)                  OT1/txtt/b/n --> T1/txtt/m/n on input line 57.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/txss/m/n --> T1/txss/bx/n on input line 60.
+(Font)                  T1/txss/m/n --> T1/txss/bx/n on input line 57.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/txss/m/it --> T1/txss/bx/it on input line 60.
+(Font)                  T1/txss/m/it --> T1/txss/bx/it on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/txr/bx/n on input line 60.
+(Font)                  OT1/cmss/bx/n --> T1/txr/bx/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/txss/bx/n --> T1/txss/bx/n on input line 60.
+(Font)                  T1/txss/bx/n --> T1/txss/bx/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/txss/m/n --> T1/txss/bx/n on input line 60.
+(Font)                  T1/txss/m/n --> T1/txss/bx/n on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/txss/m/it --> T1/txss/bx/it on input line 60.
+(Font)                  T1/txss/m/it --> T1/txss/bx/it on input line 57.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/txtt/m/n --> T1/txtt/bx/n on input line 60.
+(Font)                  T1/txtt/m/n --> T1/txtt/bx/n on input line 57.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1717,7 +1717,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 60.
+LaTeX Info: Redefining \includegraphics on input line 57.
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.13} (current compat level: 1.9).
@@ -1726,32 +1726,32 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: floatrow package is loaded.
 Package caption Info: End \AtBeginDocument code.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 60.
+LaTeX Info: Redefining \selectfont on input line 57.
  (./demo.nav)
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 60.
+(Font)              scaled to size 4.74998pt on input line 57.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 60.
+(Font)              scaled to size 6.64998pt on input line 57.
 
 <figuras/logo.pdf, id=41, 220.42393pt x 140.92679pt>
 File: figuras/logo.pdf Graphic file (type pdf)
  <use figuras/logo.pdf>
-Package pdftex.def Info: figuras/logo.pdf used on input line 62.
+Package pdftex.def Info: figuras/logo.pdf used on input line 59.
 (pdftex.def)             Requested size: 66.75327pt x 42.67912pt.
 
-Overfull \vbox (61.67906pt too high) detected at line 62
+Overfull \vbox (61.67906pt too high) detected at line 59
  []
 
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 62.
+(Font)              scaled to size 13.67995pt on input line 59.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 13.67995pt on input line 62.
+(Font)              scaled to size 13.67995pt on input line 59.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 62.
+(Font)              scaled to size 11.39996pt on input line 59.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 62.
+(Font)              scaled to size 8.54997pt on input line 59.
 
-Overfull \vbox (13.79993pt too high) detected at line 62
+Overfull \vbox (13.79993pt too high) detected at line 59
  []
 
 [1
@@ -1759,98 +1759,92 @@ Overfull \vbox (13.79993pt too high) detected at line 62
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figuras/logo.pdf>]
 (./demo.toc)
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 11.39996pt on input line 67.
+(Font)              scaled to size 11.39996pt on input line 64.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 67--67
+Overfull \hbox (0.4pt too wide) in paragraph at lines 64--64
 [][]  
  []
 
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 3.79999pt on input line 67.
+(Font)              scaled to size 3.79999pt on input line 64.
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+txsya on input line 69.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 66.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 69.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 69.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 69.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 69.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 66.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/it' in size <10> not available
-(Font)              Font shape `T1/txss/m/sl' tried instead on input line 69.
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 69.
+(Font)              scaled to size 9.49997pt on input line 66.
 LaTeX Font Info:    Font shape `T1/txss/m/it' in size <7> not available
-(Font)              Font shape `T1/txss/m/sl' tried instead on input line 69.
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 69.
+(Font)              scaled to size 6.64998pt on input line 66.
 LaTeX Font Info:    Font shape `T1/txss/m/it' in size <5> not available
-(Font)              Font shape `T1/txss/m/sl' tried instead on input line 69.
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 4.74998pt on input line 69.
+(Font)              scaled to size 4.74998pt on input line 66.
  [3
 
 ]
 <figuras/askmath.png, id=83, 96.1191pt x 58.0569pt>
 File: figuras/askmath.png Graphic file (type png)
  <use figuras/askmath.png>
-Package pdftex.def Info: figuras/askmath.png used on input line 96.
+Package pdftex.def Info: figuras/askmath.png used on input line 93.
 (pdftex.def)             Requested size: 92.1879pt x 55.68259pt.
 
 <figuras/vs.png, id=85, 100.375pt x 100.375pt>
 File: figuras/vs.png Graphic file (type png)
  <use figuras/vs.png>
-Package pdftex.def Info: figuras/vs.png used on input line 96.
+Package pdftex.def Info: figuras/vs.png used on input line 93.
 (pdftex.def)             Requested size: 30.73085pt x 30.72995pt.
 
 <figuras/petti.png, id=86, 220.6644pt x 72.27pt>
 File: figuras/petti.png Graphic file (type png)
  <use figuras/petti.png>
-Package pdftex.def Info: figuras/petti.png used on input line 96.
+Package pdftex.def Info: figuras/petti.png used on input line 93.
 (pdftex.def)             Requested size: 92.1879pt x 30.19328pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 96--96
+Overfull \hbox (0.4pt too wide) in paragraph at lines 93--93
 [][]  
  []
 
 [4
 
  <./figuras/askmath.png> <./figuras/vs.png> <./figuras/petti.png>]
-LaTeX Font Info:    Try loading font information for OMS+txss on input line 108
+LaTeX Font Info:    Try loading font information for OMS+txss on input line 105
 .
-LaTeX Font Info:    No file OMStxss.fd. on input line 108.
+LaTeX Font Info:    No file OMStxss.fd. on input line 105.
 
 
 LaTeX Font Warning: Font shape `OMS/txss/m/n' undefined
 (Font)              using `OMS/txsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 108.
+(Font)              for symbol `textbullet' on input line 105.
 
 
-Overfull \hbox (14.01944pt too wide) in paragraph at lines 108--108
-[]\T1/txss/m/n/10 A Or-ga-ni-za-ção para Co-o-pe-ra-ção e De-sen-vol-vi-mento E
-conô-mico(OECD)
- []
-
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 108--108
+Overfull \hbox (0.4pt too wide) in paragraph at lines 105--105
 [][]  
  []
 
@@ -1860,15 +1854,9 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 108--108
 
 ]
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 9.49997pt on input line 120.
+(Font)              scaled to size 9.49997pt on input line 117.
 
-Overfull \hbox (1.61302pt too wide) in paragraph at lines 120--120
-[]\T1/txss/bx/n/10 Professores de Ma-te-má-tica \T1/txss/m/n/10 que de-se-jam a
-com-pa-nhar o an-da-mento
- []
-
-
-Overfull \hbox (0.4pt too wide) in paragraph at lines 120--120
+Overfull \hbox (0.4pt too wide) in paragraph at lines 117--117
 [][]  
  []
 
@@ -1878,17 +1866,17 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 120--120
 
 ]
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 8.54997pt on input line 134.
+(Font)              scaled to size 8.54997pt on input line 131.
  <figuras/licoes.png, id=120, 653.44125pt x 595.22375pt>
 File: figuras/licoes.png Graphic file (type png)
 
 <use figuras/licoes.png>
-Package pdftex.def Info: figuras/licoes.png used on input line 134.
+Package pdftex.def Info: figuras/licoes.png used on input line 131.
 (pdftex.def)             Requested size: 184.3758pt x 167.94212pt.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 134.
+(Font)              scaled to size 7.59998pt on input line 131.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 134--134
+Overfull \hbox (0.4pt too wide) in paragraph at lines 131--131
 [][]  
  []
 
@@ -1899,11 +1887,11 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 134--134
 File: figuras/resolucao_problemas.png Graphic file (type png)
 
 <use figuras/resolucao_problemas.png>
-Package pdftex.def Info: figuras/resolucao_problemas.png used on input line 146
+Package pdftex.def Info: figuras/resolucao_problemas.png used on input line 143
 .
 (pdftex.def)             Requested size: 307.28987pt x 135.60056pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 146--146
+Overfull \hbox (0.4pt too wide) in paragraph at lines 143--143
 [][]  
  []
 
@@ -1913,15 +1901,15 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 146--146
 <figuras/forum.png, id=132, 1371.1225pt x 770.88pt>
 File: figuras/forum.png Graphic file (type png)
  <use figuras/forum.png>
-Package pdftex.def Info: figuras/forum.png used on input line 158.
+Package pdftex.def Info: figuras/forum.png used on input line 155.
 (pdftex.def)             Requested size: 307.28987pt x 172.75829pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 158--158
+Overfull \hbox (0.4pt too wide) in paragraph at lines 155--155
 [][]  
  []
 
 
-Overfull \vbox (13.3564pt too high) detected at line 158
+Overfull \vbox (13.3564pt too high) detected at line 155
  []
 
 [11
@@ -1933,10 +1921,10 @@ Overfull \vbox (13.3564pt too high) detected at line 158
 File: figuras/proposta/imagem1.png Graphic file (type png)
 
 <use figuras/proposta/imagem1.png>
-Package pdftex.def Info: figuras/proposta/imagem1.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem1.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -1947,10 +1935,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem2.png Graphic file (type png)
 
 <use figuras/proposta/imagem2.png>
-Package pdftex.def Info: figuras/proposta/imagem2.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem2.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 124.18146pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -1961,10 +1949,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem3.png Graphic file (type png)
 
 <use figuras/proposta/imagem3.png>
-Package pdftex.def Info: figuras/proposta/imagem3.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem3.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -1975,10 +1963,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem4.png Graphic file (type png)
 
 <use figuras/proposta/imagem4.png>
-Package pdftex.def Info: figuras/proposta/imagem4.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem4.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -1989,10 +1977,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem5.png Graphic file (type png)
 
 <use figuras/proposta/imagem5.png>
-Package pdftex.def Info: figuras/proposta/imagem5.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem5.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2003,10 +1991,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem6.png Graphic file (type png)
 
 <use figuras/proposta/imagem6.png>
-Package pdftex.def Info: figuras/proposta/imagem6.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem6.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2017,10 +2005,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem7.png Graphic file (type png)
 
 <use figuras/proposta/imagem7.png>
-Package pdftex.def Info: figuras/proposta/imagem7.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem7.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2031,10 +2019,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem8.png Graphic file (type png)
 
 <use figuras/proposta/imagem8.png>
-Package pdftex.def Info: figuras/proposta/imagem8.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem8.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2045,10 +2033,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem9.png Graphic file (type png)
 
 <use figuras/proposta/imagem9.png>
-Package pdftex.def Info: figuras/proposta/imagem9.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem9.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2059,10 +2047,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem10.png Graphic file (type png)
 
 <use figuras/proposta/imagem10.png>
-Package pdftex.def Info: figuras/proposta/imagem10.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem10.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2073,10 +2061,10 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/proposta/imagem11.png Graphic file (type png)
 
 <use figuras/proposta/imagem11.png>
-Package pdftex.def Info: figuras/proposta/imagem11.png used on input line 297.
+Package pdftex.def Info: figuras/proposta/imagem11.png used on input line 294.
 (pdftex.def)             Requested size: 227.62204pt x 123.89334pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2087,18 +2075,18 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 File: figuras/estrutura_problema.png Graphic file (type png)
 
 <use figuras/estrutura_problema.png>
-Package pdftex.def Info: figuras/estrutura_problema.png used on input line 297.
+Package pdftex.def Info: figuras/estrutura_problema.png used on input line 294.
 
 (pdftex.def)             Requested size: 227.62204pt x 106.44617pt.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
 [24
 
  <./figuras/estrutura_problema.png>]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.4pt too wide) in paragraph at lines 294--294
 [][]  
  []
 
@@ -2107,7 +2095,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 297--297
 ] [26
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 313--313
+Overfull \hbox (0.4pt too wide) in paragraph at lines 310--310
 [][]  
  []
 
@@ -2116,7 +2104,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 313--313
 ] [28
 
 ]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 326--326
+Overfull \hbox (0.4pt too wide) in paragraph at lines 323--323
 [][]  
  []
 
@@ -2125,7 +2113,7 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 326--326
 ] [30
 
 ] (./demo.bbl)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 332--332
+Overfull \hbox (0.4pt too wide) in paragraph at lines 329--329
 [][]  
  []
 
@@ -2134,17 +2122,17 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 332--332
  </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
 File: figuras/askmath.png Graphic file (type png)
 <use figuras/askmath.png>
-Package pdftex.def Info: figuras/askmath.png used on input line 348.
+Package pdftex.def Info: figuras/askmath.png used on input line 345.
 (pdftex.def)             Requested size: 141.32413pt x 85.35826pt.
 
-Overfull \hbox (55.96587pt too wide) in paragraph at lines 348--348
-[][] 
+Overfull \hbox (55.96587pt too wide) in paragraph at lines 345--345
+[][]  
  []
 
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 348.
+(Font)              scaled to size 23.63593pt on input line 345.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 348--348
+Overfull \hbox (0.4pt too wide) in paragraph at lines 345--345
 [][]  
  []
 
@@ -2160,23 +2148,23 @@ Overfull \hbox (0.4pt too wide) in paragraph at lines 348--348
 \tf@snm=\write8
 \openout8 = `demo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
  (./demo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 352.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
 Package rerunfilecheck Info: File `demo.out' has not changed.
 (rerunfilecheck)             Checksum: BECDF884EAB4291A095E0F3F1D18E896;339.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 352.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
  ) 
 Here is how much of TeX's memory you used:
  33967 strings out of 494929
  782915 string characters out of 6180142
- 1042015 words of memory out of 5000000
+ 1041992 words of memory out of 5000000
  36403 multiletter control sequences out of 15000+600000
  56287 words of font info for 83 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
@@ -2186,7 +2174,7 @@ e/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
 c/uhvr8a.pfb>
-Output written on demo.pdf (32 pages, 816382 bytes).
+Output written on demo.pdf (32 pages, 816365 bytes).
 PDF statistics:
  316 PDF objects out of 1000 (max. 8388607)
  229 compressed objects within 3 object streams
